@@ -35,6 +35,6 @@ Tested Sonoma 14.5 with OpenCore Legacy Patcher 1.5.0.
 
 ## ScreenShots:
 
-![ScreenShot 14.5](.\ScreenShot%2014.5.png)
+![ScreenShot 14.5](ScreenShot%2014.5.png)
 
 ---
