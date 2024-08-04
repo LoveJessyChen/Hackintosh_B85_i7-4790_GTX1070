@@ -31,6 +31,18 @@ SIP Fully disabled，amfipass.
 
 Tested Sonoma 14.5 with OpenCore Legacy Patcher 1.5.0.
 
+## BIOS Settings：
+
+---
+
+
+Secure boot --> Off
+Memory Protection --> Off
+CFG Lock ---> Off
+TPM 2.0 --> Disabled
+Hyperthreading --> on
+Anything security related --> off  
+
 ---
 
 ## ScreenShots:
