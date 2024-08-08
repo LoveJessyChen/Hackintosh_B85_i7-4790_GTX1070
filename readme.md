@@ -33,9 +33,11 @@ SIP Fully disabled，amfipass.
 
 Tested Sonoma 14.5 with OpenCore Legacy Patcher 1.5.0.
 
-## BIOS Settings：
 
 ---
+## BIOS Settings：
+
+
 
 
 · Secure boot --> Off
